@@ -1,5 +1,5 @@
 # Hi, I am Taeseok Kang 
-## I am a Junior studying Information Science
+## I am a Junior studying Information Science + Data Science
 ### This is my TMI!
 
 
