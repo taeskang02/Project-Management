@@ -12,6 +12,6 @@ Here are my favorite things
 
 **Chaewon From Le Serrafim**
 <figure>
-  <img src="[https://media.d3.nhle.com/image/private/t_ratio16_9-size50/dpr_2.0/f_auto/prd/olstsfd0yrhs3yrznrcr.jpg](https://kpopping.com/documents/0d/1/1800/221023-LE-SSERAFIM-Chaewon-ANTIFRAGILE-at-INKIGAYO-documents-3.jpeg?v=0e47f)https://kpopping.com/documents/0d/1/1800/221023-LE-SSERAFIM-Chaewon-ANTIFRAGILE-at-INKIGAYO-documents-3.jpeg?v=0e47f"alt = "221023 LE SSERAFIM Chaewon - 'ANTIFRAGILE' at Inkigayo | kpopping">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kim_Chaewon_LE_SSERAFIM_220923.jpg/640px-Kim_Chaewon_LE_SSERAFIM_220923.jpg" alt = "Kim Chae-won - Wikipedia">
   <figcaption>Leader of Le Sserafim Chaewon.</figcaption>
 </figure>
