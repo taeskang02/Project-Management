@@ -1,4 +1,6 @@
 <h1>Which Animal is Linux Mascot?</h1>
+
+**Options:**
 <br>
 A. Dog
 <br>
